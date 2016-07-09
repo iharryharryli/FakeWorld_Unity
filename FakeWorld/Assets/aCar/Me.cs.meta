@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d3936a48afc04a10b3b3b135cfade21
+timeCreated: 1466542382
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - aCar: {fileID: 146080, guid: b59bbd3501a79481a94143040ca0db1b, type: 2}
+  - controller: {instanceID: 0}
+  - playerManagerObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
